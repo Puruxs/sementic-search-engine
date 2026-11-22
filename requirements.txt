@@ -1,0 +1,28 @@
+# Core Streamlit
+streamlit>=1.35.0
+
+# Search Engines (Untracked / Private)
+ddgs>=9.0.0
+duckduckgo-search>=6.0.0
+
+# Document & Book Processing (100% Private Local RAG)
+pymupdf>=1.24.0
+pypdf>=5.0.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+pillow>=10.0.0
+pytesseract>=0.3.10
+
+# LLM Providers (Native high-speed & local offline)
+groq>=0.9.0
+ollama>=0.2.0
+
+# Web Scraping & HTTP
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+urllib3<3,>=1.26.16
+
+# Utilities & Config
+python-dotenv>=1.0.0
+pydantic>=2.7.0
